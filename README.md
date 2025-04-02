@@ -1,1 +1,2 @@
 # Data-Analyst
+"Pizza analysis involves examining sales trends, customer preferences, ingredient costs, and operational efficiency. By analyzing order patterns, best-selling toppings, peak sales hours, and delivery performance, businesses can optimize pricing, reduce waste, and enhance customer satisfaction. Insights from data help improve menu offerings, streamline inventory management, and boost profitability while catering to market demand."
